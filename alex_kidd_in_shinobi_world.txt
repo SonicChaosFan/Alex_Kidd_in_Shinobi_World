@@ -1,0 +1,1049 @@
+==========================================================================
+
+              _____  _      ___    _    _     _   _  _  ___    ___   
+             (  _  )( )    (  _`\ ( )  ( )   ( ) ( )(_)(  _`\ (  _`\ 
+             | (_) || |    | (_(_)`\`\/'/'   | |/'/'| || | ) || | ) |
+             |  _  || |  _ |  _)_   >  <     | , <  | || | | )| | | )
+             | | | || |_( )| (_( ) /'/\`\    | |\`\ | || |_) || |_) |
+             (_) (_)(____/'(____/'(_)  (_)   (_) (_)(_)(____/'(____/'
+                                          
+                         I N   S H I N O B I   W O R L D                 
+
+
+    ==========================================================================
+
+
+    :: ALEX KIDD IN SHINOBI WORLD ::
+
+       FAQ/Walkthrough
+       version 1.00
+
+
+
+    - Game Release Date:         1990
+    - Developed/Published by:    Sega
+    - Console:                   Sega Master System
+    - Genre:                     2D Action Platform
+    - Players:                   One
+
+    - Authors of the FAQ:        CrazyDream aka Wesker
+                                 andre.wesker@gmail.com
+
+
+                                 Imperator
+                                 luis.imperator@gmail.com
+
+    IF YOU HAVE ANY INFO TO ADD TO THIS FAQ, CONTACT ANY OF US AND WE ARE
+    GOING TO PUT YOUR INFORMATION HERE AND GIVE YOU THE DUE CREDITS.
+
+    ==========================================================================
+
+
+    ==========================================================================
+                               TABLE OF CONTENTS                              
+    ==========================================================================
+    ||          Name                   ||           Section #               ||
+    ==========================================================================
+    ||    Introduction                 ||             0001                  ||
+    ||    Controls                     ||             0002                  ||
+    ||    General Info                 ||             0003                  ||
+    ||                                 ||                                   ||
+    ||    ---------------------------  ||             ----                  ||
+    ||    FAQ/WALKTHROUGH              ||             0004                  ||
+    ||                                 ||                                   ||
+    ||    --- Round 1                  ||             004A                  ||
+    ||    --- Round 2                  ||             004B                  ||
+    ||    --- Round 3                  ||             004C                  ||
+    ||    --- Round 4                  ||             004D                  ||
+    ||    ---------------------------  ||             ----                  ||
+    ||                                 ||                                   ||
+    ||    Special Thanks               ||             0005                  ||
+    ||    Contact Info                 ||             0006                  ||
+    ||    Version History              ||             0007                  ||
+    ||    Copyright Info               ||             0008                  ||
+    ==========================================================================
+
+
+
+     _________________                                                 ______
+    /  INTRODUCTION  /------------------------------------------------| 0001 |
+    ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                                                  ¯¯¯¯¯¯ 
+
+    Oh, how cute. There you are with your girlfriend enjoying the view of a 
+    real beautifull flower garden when all of a sudden an evil one comes and 
+    gets your girl! You are affraid, what are you going to do now?!
+    But the great spirit of a Ninja appears and tells you:
+    "The Dark Ninja, the evil whom I banished 10.000 years ago, has returned. 
+    With your girlfriend as hostage, he plans to seize the ultimate power...
+    I have come here to help you defeat the dark ninja and to rescue your
+    beloved." And... ta-da!! You're now a Ninja! Come on, Alex Ninja Kidd,
+    let's kick some asses!
+
+
+    :: RANDOM TRIVIA ::
+
+    - This game is a parody of the game Shinobi (Sega, 1987) wich is a ninja
+      game, released to the arcades (and later, released to Sega Master System
+      and Amiga computer. Sequels released to Sega Genesis and Sony
+      Playstation 2)
+
+    - The first boss, Kabuto, was originally going to be named Mari-Oh, as a
+      parody of the Nintendo character Mario
+
+    - The music you hear in the game are remixes of Shinobi musics
+
+    - This game is the last of Alex Kidd saga, see the list of all Alex Kidd
+      games, below. Chronologically listed.
+
+      * Alex Kidd in Miracle World, 1986, Master System
+      * Alex Kidd BMX Trial, 1987, Master System
+      * Alex Kidd in High-Tech World, 1989, Master System
+      * Alex Kidd and the Lost Stars, 1989, Master System
+      * Alex Kidd and the Enchanted Castle, 1989, Genesis
+      * Alex Kidd in Shinobi World, 1990, Master System
+
+
+
+     _________________                                                 ______ 
+    /    CONTROLS    /------------------------------------------------| 0002 |
+    ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                                                  ¯¯¯¯¯¯ 
+
+    The controls here are pretty simple:
+
+
+    = Directional-Pad =
+
+    - Press to select CONTINUE or NEW GAME on the GAME OVER screen.
+    - Press to move Alex Kidd right or left
+    - Press UP to climb ladders, poles and ropes.
+    - Press DOWN to squat.
+
+
+    = Button 1 =
+
+    - Press to attack. (Swing the sword or throw spears)
+    - Press to start game.
+    - Hold to turn into a fireball (only when ganging in a bar)
+
+
+    = Button 2 =
+
+    - Press to jump.
+    - Press to start the game.
+
+
+    = Pause =
+
+    - Pauses the game
+
+
+
+    :: COMBINATIONS ::
+
+
+    = D-Button (DOWN) + Button 1 =
+
+    - Swing the sword while squatting.
+    - Throw spears while squatting.
+
+
+    = D-Button (UP) + Button 2 =
+
+    - Jump and grab a horizontal bar.
+
+
+    = D-Button (DOWN) + Button 2 =
+
+    - Squat and grab a horizontal bar (only when standing on a horizontal bar)
+
+
+     _________________                                                 ______ 
+    /  GENERAL INFO  /------------------------------------------------| 0003 |
+    ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                                                  ¯¯¯¯¯¯ 
+
+    = LIVES =
+
+    You get three triangles in your health bar, when they all fade, you died.
+    That takes one life.
+
+    You get three lives in each Level.
+
+    For increasing the number of health triangles you should get hearts from
+    the chests, each heart corresponds to a triangle. You can carry up to six
+    hearts/triangles. The next life-giving item will be an Alex doll, wich
+    corresponds to one life.
+
+
+
+
+    = CONTINUE =    
+
+    In the GAME OVER screen, you can select CONTINUE and press Button 1 or 2,
+    you restart from the beginning of the level.
+
+    If you select NEW GAME, it goes back to the title screen.
+
+
+
+
+    = HOW TO START =
+
+    Simply press Button 1 or 2 in the title screen. You'll see the overall map
+    with a shining square, that's where you are.
+
+    Then, the ROUND INFO screen will appear, it displays:
+      - The picture of the boss you are going to fight
+      - The hi-score
+      - Your score
+      - How many lives you have left
+
+    Now the game starts.
+
+
+
+
+    = SCORING =
+
+    - 100 points for each enemy killed
+    - 1,000 points for each Boss killed.
+
+    The score appears at the beginning of the following round.
+
+    CLEAR BONUS: When cleared a round, you'll get 2,000 points for each life
+                 you have left
+
+    PERFECT BONUS: If you clear a round with six lives left, you'll get 10,000
+                   points.
+
+    SECRET BONUS: If you clear a round without sustaining any damage, you'll
+                  get 10,000 points.
+
+    Note: You won't gain any extra points for clearing Round 4 without damage.
+
+
+
+    = ITEMS =
+
+    when you find a treasure chest, break it open to pick up useful items:
+
+    : Heart : Gives you life.
+
+    : Spears : If you pick these up you'll be able to use spears instead of
+               your sword. If you get attacked or proceed to the next section
+               you will no longer be able to use them.
+
+    : Power : Your Weapon becomes more powerful, and you can deflect shurikens
+             (ninja stars)
+
+    : Ninja's Crystal Ball : Alex turns into a tornado. Use the D-Button to
+                             direct the tornado. (When Alex turns into a
+                             tornado, smaller twisters also appear. These
+                             twisters cannot be controlled.)
+
+    : Alex Doll : You gain an extra chance to complete a round.
+
+
+
+
+    = MAGICAL MOVES =
+
+    You'll definitely need to use magic to knock down your enemies and elude
+    traps.
+
+    : Fireball :
+
+    When you run into a hanging rope or a pole, stand in front of it. Press
+    the D-Button (UP) to start climbing. Stop at an appropriate spot and press
+    Button 1 for a few seconds. Alex will turn into a ball of fire. Direct
+    Alex with the D-Button (LEFT or RIGHT) and lift your finger off Button 1.
+    Alex will fly to wherever you direct him. If Alex hits weak enemies
+    they'll be wiped out instantly. the stronger enemies will only sustain
+    damage.
+
+    When you run into a horizontal bar, press Button 2 and the D-Button (UP).
+    Alex will jump and grab the bar. Press Button 1 for a few seconds. Alex
+    will turn into a ball of fire. Direct Alex with the D-Button and lift your
+    finger off Button 1. Alex will break through thick walls.
+
+
+    : Wall Jump :
+
+    You can use this technique only to climb walls that are facing each other.
+    Press Button 2 and the D-Button (LEFT or RIGHT) simultaneously to make
+    Alex jump toward a wall. As soon as Alex touches the wall, press Button 2.
+    Continue to press Button 2 until Alex gets to the top of the wall.
+
+
+    : Skip on Water :
+
+    Continue to press Button 2 as Alex crosses a body of water. This prevents
+    him from sinking.
+
+
+
+
+    = HELPFUL HINTS =
+
+    - Good timing is the key to success.
+    - Look for secret routes to get to the treasure chests in hard-to-get
+      places.
+    - Learn you enemies' movement patterns.
+    - Use your weapon to break through flashing blocks. Squat and break blocks
+      under your feet.
+    - In order to kill the boss enemies you must attack them several times.
+      find their weak spots.
+    - You won't be able to open treasure chests by throwing spears from a
+      distance. You must stand in front of them to break them open.
+
+
+
+
+    Credits to Watler's World for this section, most of stuff extracted from
+    there.
+
+
+
+
+
+                         ________________________________              ______ 
+    --------------------/ F A Q / W A L K T H R O U G H /-------------| 0004 |
+                        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯               ¯¯¯¯¯¯ 
+
+    Start the game and here we go:
+
+
+
+    :: ROUND 1 - KABUTO ::                                              [004A]
+
+
+    : Level 1 :
+
+    Alright, let's begin! The game barely starts and you already have to get
+    rid of two red ninjas. They should be no problem, just press Button 1 and
+    Alex Kidd's sword will do the job. Go foreward and when you reach the grey
+    post press up and you'll climb it. Once you're above the building press
+    and hold button 1: Alex Kidd will turn into a fireball and then release it
+    to kill all enemies on your way. Now you should be at the top of the
+    building. There's a chest with some heart get it and kill the rifleman
+    that's on the box (just jump and slice your sword). Down there there is a
+    guy that keeps throwing this boomerang-like sword. To kill him, you must
+    wait until he throws his weapon, when he's without it is your chance
+    to strike back. This one you can kill from behind, he won't turn. Just
+    beware of the red Ninja that comes towards you once you're on the floor.
+    Go forward and there will be another boomerang guy, just stay a little
+    closer and as soon as he throws it, jump and kill him.
+
+    On the top of the next building there is a treasure with some heart, just
+    jump and break the chest. A Frog Ninja will apear, kill him the same way
+    you "killed" the chest. You should have no problem next, but just in
+    case... Jump on the first box then jump on the building. From the building
+    jump on the upper box to proceed.
+    A red ninja will come as soon as you hit the ground. Go forward until you
+    see a grey post, press up and on the top of it press and hold Button 1
+    until Alex becomes a fireball. You'll go to the top of a building where a
+    Rifleman were standing, just get the spear on the treasure and get down.
+    Be carefull with the two Red Ninjas. If you want you can go back and kill
+    the boomerang guy. Go down, but be carefull! Jump the farther you can, so
+    you can strike the boomerang guy from behind. There's also a star-throwing
+    red ninja. Just dodge the shurikens and kill the bastard. Proceed to the
+    next area.
+
+
+    : Level 2 :
+
+    Just go forward and two Frog Ninjas will fall, they shouldn't be any
+    problem by now. Go up the ladder and kill the red ninja. Go left and jump
+    through the plataforms, just wait to the boomerang dude get far enough for
+    you to go up and kill rifleman. Kill the boomerang guy and proceed through
+    the ladder. When you're going up there'll be two riflemen just get past
+    the first and stay on the middle of them. Wait for the shot of the second
+    and continue.
+
+    There will be a treasure with a Power Up for your sword, just break the
+    chest and get it (with this Powerup you can deflect the shurikens
+    (ninja-stars) with your sword. Now Jump and press button 1 to kill the red
+    ninja on the top of the boxes. Wait for the lower one to go to the far
+    left and fall. Be ready to press button 1 as soon as you hit the ground to
+    kill him. Go up using the ladder. Once again you'll have to wait to the
+    boomerang man get away from you. Once you see it's clear just jump on the
+    plataform and use your skills to kill him. There is also a chest with some
+    heart on this plataform.
+
+    There's no secret now, but you must be carefull in order not to fall of.
+    Wait for the moving plataform to get near you and then jump. Wait for it
+    to get down and jump again to proceed. Carefull, in the next plataform
+    there'll be two red ninjas. As you'll go forward you'll find a
+    star-throwing ninja on a plataform, do not be affraid, avoid the stars,
+    run, jump and kill him! Don't worry if you lose some hearts, there will be
+    one on the next plataform. Careful as you jump to the next plataform,
+    there'll be a red ninja waiting there, so as the other one, but as soon as
+    you fall on the other another one will appear. Go forward and kill the red
+    ninja, walk right a little further and there will be a star throwing red
+    ninja, just avoid his stars, get close and kill him. Now, enter the
+    building.
+
+    Inside the building, use the same techiniches to kill the first red ninja:
+    wait on the border, when his on the far right get down and kill him. Go on
+    and when you reach the shining golden blocks just press down and then use
+    your sword to break it. When you're down, just break the other blocks and
+    kill the red ninja. Continue down the building. Once you break down the
+    two golden blocks, be ready to kill a red ninja. Keep going down using the
+    same way. Another red ninja will be there. Keep this up until you reach a
+    place that there's two different places to  break, just break the two left
+    blocks.
+
+    Go left, to go up just jump on the wall and once you hit it, press the
+    jump button again, so you'll jump to the other wall, keep doing this until
+    you reach the top with two treasures: one containing a spear and another
+    with a heart. Fall down and go right. Press jump + Up and you hold on the
+    white bar. Press and hold button 1 until you become a fireball, then
+    release it. Pretty cool, heh? :P
+    Now the path is cleared, just do as you did in the left wall and go up.
+    Just jump and throw a spear on that dumb red ninja and proceed to the
+    exit.
+
+
+    : Level 3 :
+
+    Boss Battle - KABUTO
+
+    Easy boss. To beat Kabuto shoot spears on him until he turns small, when
+    he does, duck down and shoot some more. If you do everything as said there
+    should not be the need for dosging shots, but do so in case you need.
+
+    Once you've beaten him, that's the end of stage three.
+
+        
+
+    :: ROUND 2 - HELI ::                                                 [004B]
+    
+
+    : Level 1 :
+    
+    Alright, if found to reach Round 2 was pretty damn easy we're getting
+    along just fine :)
+
+    We're on a harbor-like area, but let's quit all this babbling and get
+    sweaty!
+
+    Just go forward as you might already assumed, a strage guy in a diving
+    suit will apear, just kill him and jump to the next plataform. Oh, and by
+    the way, it doesn't matter if you fall into the water, it won't kill you.
+    Just keep it up and another diving man will appear, just before the big
+    plataform with the chest. Continue until you check the Green Ninja, keep
+    some distance so you don't hit him, just jump and then slice the sword
+    upon him. Now the path is clear you can jump on the plataform and go to
+    the one in the left, to take the chest with a heart.
+
+    Continue to the right and you will see a Green Ninja, just kill the guy
+    and go on, jump to the small plataform and the diving suit guy will appear
+    again, just kill him like you did before. Continue jumping until you reach
+    the bigger plataform with a Green Ninja on it, go on and you'll see a
+    rifleman. Just get rid of him, jump on the crates and continue to the
+    right. While jumping between plataforms you'll encounter a ninja in the
+    diving suit, get rid of him and continue. Kill the Green Ninja and enter
+    the lighthouse, the door with a red light, just press up on the D-Pad and
+    you'll enter the door.
+
+      Secret Room
+
+      You should already know what to do, just in case... Press jump + Up on
+      the D-Pad, then hold button 1 to perform the fireball magic, than
+      release the button. On the other bar just press Down + Jump, and perform
+      the fireball magic, continue doing this until you reach the two treasure
+      chests containing a heart and a spear. Go back and get out of the
+      lighthouse.
+
+    Alright, let's go again. The Green Ninja you've killed is back, so kill
+    him again (much easier with the spear, eh?) and continue. There will be a
+    star-throwing Green Ninja, just kill him and proceed (remember you can
+    block the stars by throwing spears upon them). Kill the first rifleman and
+    get the chest with a star, go up on the plataforms, jump and kill the
+    second one. There should be another chest with a heart on it just after
+    the second rifleman, get it and continue on your journey.
+    
+    Once you go right you'll see a chest and another rifleman, don't worry,
+    just get on the highest plataform and kill the guy. Because you can't 
+    destroy chests with the spear when you are too far away from them you'll
+    have to jump from the highest plataform and press right while you jump,
+    when you're close enough shoot and you will be able to break it. It will
+    leave a heart (perhaps, if you're lucky you may find a live here). To get
+    it you may face the third plataform right to left, jump and then jump again
+    to perform a Ninja jump to the right, keep holding righ on the D-Pad while
+    you're in the air. You may have to do it 2 or 3 times, but it's not that 
+    difficult.
+   
+    Well, as you continues you'll find a diving suit man, kill him and go on. 
+    On the ship plataform there's a Green Ninja, don't worry with the one on
+    the ship, if you want you can kill him later. Enter the ship!
+    
+    As soon as you get on the ship throw a spear, there'll be a Green Ninja 
+    waiting for you. Climb on the ladder, and go to the right. Stand on the 
+    golden block and throw a spear at the Green Ninja on the left. If you want
+    you can check the upper part of the ship by getting out through the left
+    door, there will be only a Green Ninja there. Well, get down to the plata-
+    form from where you came, approach the ladder (but don't climb it). You'll
+    have to be fast now, in order not to fall off, jump to the left, as soon 
+    as you touch the golden blocks hit it and break it and press up fast to
+    climb the ladder. Remember, you can't break it throwing spears when you 
+    are far away from them! Now you have a clear shot of the Green Ninja from
+    the plataform you came from. Just climb the ladder and break the chest. 
+    You'll get a magic and become a Hurricane! Just go down and kill the Ninja
+    just by touching him. Continue down and kill another Green Ninja. 
+
+    Go to the right, and break the golden blocks. Go and get to the bar (remem-
+    ber? If you're above it Down + Jump, below it Up + Jump) and move to the
+    left, use the fireball magic (press and hold button one, then release it)
+    and press left to stay on the red block. Just break the golden blocks and
+    head to the Exit Door. That's it for Level 1!
+
+
+    : Level 2 :
+ 
+    Well, I bet you're thinking: Now this is becoming interesting! And you're 
+    right! Level 2 is on the sea, and things are getting a little harder.
+
+    Just as you start you'll see two Barracudas, be carefull, they can be a 
+    damn pain in the ass. To kill them, you have to hit them twice. But it's 
+    all about timming, when he sees you he'll open his mouth and come to 
+    attack you. Just stay calm, in front of him, and when he's near enough 
+    just strike, he'll fall back a little, wait for the approach and hit again.
+    That should about do it. If you find this too damn difficult you can stay
+    at the top of the water jumping them, but if you like danger, just go and
+    kill them all!
+
+    After you kill the two Barracudas, just break the blocks and get the chest,
+    it will give you Power Up for your sword (wich will make easier to kill
+    those damn fishes!). Be ready for another Barracuda just after the blocks.
+    If you hit them from behind or down it'll need only one strike. Proceed 
+    (be carefull with those spikes) and a diving suit guy will fall, kill 
+    him and go on. Break the blocks and another diving suit will appear, just 
+    do as the other one and proceed. Break the blocks to make it easy and a 
+    third diving bastard will show up. Just kill him and go up for that chest 
+    that's calling you. Just get near the crate on the right and use the Ninja
+    Jump (jump and jump again on the crate's side). There'll be a Life on the 
+    chest.
+
+    Go on and when you see two chests and something that keeps throwing balls
+    just go down and destroy the chests and get the two lives. Go down a 
+    little into the hole, BUT DO NOT FALL OFF YET! (if you are a bad boy and
+    already did enter the hole, just skip to Secret Room #2) Just go enought
+    to hit that monster with you're powered up sword. A Barracuda will appear,
+    and if you can't get of the hole just press jump and you'll be fine. 
+
+      Secret Room #1
+      
+      Proceed and there'll be another Barracuda, just kill and go on. Jump and 
+      you're now out of the water, jump to the plafarm on the right and then 
+      jump again to the right. You'll be now at the to of the plataform and
+      off screen. Just keep going to the right until you reach the secret area
+      with a chest with a heart on it.
+
+    Once you got the life, head back to the place that were two chests.  Be 
+    carefull, your enemies will be there again! After killing them, fall into
+    the hole and you'll be on Secreet Room #2.
+
+      Secret Room #2
+      
+      There's a diving suit dude (caution! this one throws ninja stars, just
+      deflect it with your sword, if you have got the Power) just as you enter
+      the place. Go down, break the blocks and get the chest with a life. From
+      that point turn right, break the blocks, kill the Barracudas and
+      proceed. On the upper plataform you will see two chests, the first one
+      is easy, just approach and break it to get a life, for the second one,
+      head down and then when you're bellow the golden blocks go up and break
+      them to reach the chest with another life. Go forward and you'll reach a
+      place with three different paths. 
+      The path on the left will lead you to a dead end. Take the path on the
+      right to reach a chest with a spear. Now take the path on the center, 
+      and when you reach the second bifurcation go to the right one to get a 
+      chest with a heart on it. Just keep going up.
+
+    Now that you're out of the water head to the Exit Door (Don't mind the 
+    left door, it will lead you to the place where you entered Secret Room #1). 
+    This is the end of Level 2!
+    
+    : Level 3 :
+
+    Boss Battle - HELI
+ 
+    Don't worry, this is as easy as the first boss. All you have to do is to
+    destroy 15 little choppers. Just use your spear throw to do the job.
+    Do not jump, jumping it will only make it easier for the choppers to hit
+    you, stay on the ground and start shooting as crazy. You will finish them
+    in no time.
+
+
+
+    :: ROUND 3 - ROBSTER ::                                             [004C]
+
+
+    : Level 1 :
+
+    Hey, here we go for Round 3. In the begginnin' there's a crown there, do
+    NOT jump, he will come to the floor, just keep proceeding slowly and when
+    it comes, slice it in two. Fall on that hole and you're now in...
+
+      Secret Room #1
+
+      Now, there you have one extra life, cool, heh? GET THE CHEST ON THE LEFT
+      FIRST, with this done, break the chest in the right, get the Ninja's
+      Cristal Ball and Alex will turn into a tornado for some seconds, just
+      go up, back to the previous area.
+
+    Well, if you are back the patform where you began again, just head right
+    and press Jump + D-Button (UP) to climb the rope (if you are already on
+    the above platform because of the Tornado, just continue from here on).
+    Caution with the false floor and the crow, there's another rope on the
+    left, so here we go again, but this time you'll see a chest in the far
+    right. Align yourself with the chest and then press and hold the Button 1
+    and you'll do the Fireball. Just get the stuff inside the chest and go
+    back to the rope you were, this time, climb it to the top and fall of to
+    the right. A stealth fish wil come up in your back and our friend crow
+    again, just get rid of them, and go to the right rope. Now, let's find the
+    secret room, see that hole in the left wall? That's there, do the Fireball
+    again and reach it.
+
+      Secret Room #2
+
+      Now you see two crows and three chests. Get rid of the first crow and
+      get the first chest. Now this is a little difficult, you'll have to jump
+      and slice the crow at the air and not fall on the bamboo spikes. Get the
+      other chest you see and climb the rope, do the fireball and get the
+      spears. Now get to the rope in the same direction as the hole and do the
+      fireball to come back.
+
+    Now, fall down (caution with the stealth fish again) and kill the crow
+    again. Avoid the false floor and Climb the right rope and get to the top
+    of it, jump to the left platform (caution: the stealth devlish fish from
+    hell appears again here, and the false floor) and get to the left rope.
+    Jump off to the right and kill the crow. Proceed right, now.
+
+    As you arrive you see a yellow ninja (just throw a spear at him) and a
+    strange rounding animal, just pass by him, you'll see a treasure, go to
+    the platform just before it, squat down and throw a spear at the rifleman
+    right ahead. Get the treasure and go up to the next platform. There will
+    be a wetaher crow, he is going to throw some flashes at you, throw a spear
+    from a distance.
+    
+    Go forward and you'll find the rounding animal thing again, he will not
+    attack, just pass him again, but try not falling on the bamboo spikes.
+    Before get the chest, throw a spear at the ninja from the platform you are
+    now get the chest and to the next platform. And now you'll have to jump on
+    that floating block up there, if you fall, just proceed. Get the next
+    treasure, it will contain the Ninja's Cristal Ball, and will turn Alex
+    into a tornado, just go ahead with that flying the higher you can. You
+    should fall between a rounding animal and a rifleman, kill him and
+    proceed.
+
+    Just jump to the next platform, and you'll see a chest, there's a weather
+    crow just waiting for you, try dodging the flashes and throw a spear when
+    he's far enough. Now there's an abism and a floating block that will fall
+    once you get on it. THAT'S THE HARDEST JUMP IN THE GAME, if you fall you
+    get back a fricking huge lot. But, that's with you, take some distance and
+    jump when you are almost falling, go ahead and jump it to the next floor,
+    where a star-throwing ninja is waiting for you. Kill him and this level is
+    over!
+
+
+    
+    : Level 2 :
+
+    Well, now we're in a cave with lava all over the place, first, jump on the
+    first floating grass and then jump to lef left, you must have found the...
+
+      SECRET PASSAGE
+
+      Now this area gets much easier. You walk above the screen and does not
+      get attacked by any enemy. Cool, heh? Just go through the passage and
+      watch those bamboo spikes falling there (thank us they're not falling
+      over your head), just proceed to the right and get the two chests.
+
+      After you've got the chests, you may come back and pass the whole stuff
+      again (wich we do not recomend), or just fall off over the green
+      gelatine stuff. If you want to proceed from here, just skip the next
+      paragraph.
+
+
+    IF YOU DID COME BACK:
+    Pass the droplets lava and jump to the floating grass. Fall on the next
+    piece of land. Now you see there are bamboo spikes at the ceiling.
+    Some of them fall (if you have one through the SECRET PASSAGE, they did
+    already fall, so it won't bother you), you can differ them by the color.
+    Now, do a quick move: jump to the piece of floor and then just jump over
+    the next green stuff, but do it fast enough, or else a bamboo spike is
+    going to fall over your head. Now there are more three pieces of lands,
+    they all have falling spikes above them (again, if you've gone through the
+    secret passage, just don't worry about them falling). Just go as quick as
+    you can. In the first one, not even jump, just walk and fall on it, and
+    then quickly jump until you reach the treasure chest, get the heart and
+    move on. Now you have a jumping lava just before a droplet lava, use your
+    skills go through. Do it until you
+    reach a floating grass and see a green gelatine-like monster.
+    At this point you're just right where you would be if you had gone
+    through the secret passage. Just continue reading.
+
+    IF YOU DID NOT COME BACK (START READING FROM HERE):
+    Just don't bother about the gelatine stuff (if you want to score, once
+    hit it it divides in four, so might be a good idea, if you don't mind
+    scoring, just leave it alone. (If you want to kill him, do it and jump to
+    the left floating grass quickly, or else he is gonna hurt you, them go
+    back and kill the gelatine-planary dude).
+
+    Now pass by the jumpin' lavas, run through the droplets lavas, and fall
+    there on the right, it might be a little difficult, but jump and press
+    D-Button (UP) to hold the rope. Now get to the top of it and do the
+    Fireball (hold Button 1 and hold D-Button (RIGHT), then just release
+    Button 1), and you've reached the secret room #2, if you fell on the
+    rope's hole, just skip the next paragraph.
+
+      SECRET ROOM #2
+
+      You've got a Powerup right there. Just ignore the rope and jump straight
+      to the other side, get the stuff and fall down. If you entered this
+      area, skip the next paragraph.
+
+    IF YOU DID NOT ENTER THE SECRET ROOM #2:
+    You fell on a green floating floor, just fall to the left now and get upon
+    the yellow moving stuff. But do not expect it will carry you through the
+    spikes. You have to walk upon it on your own. Get to the next piece of
+    floor and get upon the other yellow-moving car, walk on it and jump to the
+    floating grass. (just continue the reading...)
+
+    IF YOU DID ENTER THE SECRET ROOM #2 (START READING FROM HERE):
+    Get the chest and jump to the next stair-like floor.
+    Jump into the yellow car, then WALK right together him and jump off before
+    it falls in the lava. Don't mind the rope, just jump straight to the chest
+    and get the spears. Now fall off.
+
+    Get the chest and proceed to the right jumping over these moving rocks.
+    Once you've past it, there's another one easier to pass. Just go until you
+    reach a falling drop of lava, with a moving rock on its right. Just jump
+    on the rock and on to the platform. Go through another falling drop of
+    lava, and jump on the rock and to the floating brown platform again. Avoid
+    the jumping lava and get to the silver floating rock. Jump off him before
+    it falls. And proceed to the exit.
+
+    
+    : Level 3 :
+
+    Boss Battle - ROBSTER
+
+    OK, now we are gonna face this crazy lobster thing. He throws upon you
+    some yellow stuff that look like cut potatoes to me, that's his only
+    attack besides jumping  over the place.
+
+    If you got the Spears, it's gonna be pretty easy to go over him. Just run
+    to the left side of the screen and stay just a little away from the wall,
+    and shoot him like hell. If you do not got the spears try hitting him when
+    he jumps (this time, he's unprotected) and repeat it around 4 times. Well,
+    he's gone, time for a delicious dinner now.
+
+
+
+    :: ROUND 4 - HANZO ::                                                 [004D]
+
+
+    : Level 1 :
+
+    This is the last part, don't give up now! We're almost there.
+
+    You're willing to kick the butt of that good-for-nothing Ninja that
+    kidnapped you girl, eh? So let's go!
+ 
+    You start the level and you already see that damn bird and a cannon-like
+    thing. Now, here you'll have to get the timing of the bird and of the 
+    cannon ball. The cannon ball will keep comming, the bird will only attack
+    you if you approach. Just make so you can jump the ball and hit the bird 
+    with your sword at the same time, you might need some practice, but it's 
+    not that difficult.
+    
+    Continue to the other side of the cannon, be carefull: it will throw balls
+    on both sides, so don't get too crazy on the other side. Continue to the 
+    right and jump to the next plataform. Now you'll have to be sure you got
+    some jumping skills. If you fall, don't worry, you can continue through
+    the underground path.
+
+
+      SURFACE PATH:
+      At the other side of the cannon, just be ready to jump and slice the
+      bird that'll be waiting for you. It will make easier if as soon as you
+      get on the smaller plataform you jump to the other one. That way you
+      won't fall by accident. Just proceed and be carefull with the cannon.
+      On the other plataform jump you'll have to use just the same techniches
+      you've used on the first one. The only difference is that's a chest with
+      a heart on the smaller plataform. Continue and again, be carefull with
+      the cannon.
+      On the plataform with a tree, just after that cannon, jump and kill the 
+      bird to proceed. There'll be more two cannons and one bird ahead. Just 
+      make sure you won't get hit. 
+      Now fall into the hole.
+
+      UNDERGROUND PATH:
+      If you fall of on the first or second hole, that's where you end up. If 
+      you fall on the other holes you should appear just ahead.
+      Head left, avoid the cannon balls and get the chest with a heart. Now 
+      proceed to the right, make sure you won't get hit by those spikes.
+      Continue to the right and a skull man will appear, just get rid of him
+      and go on. Be very carefull with your jumps so you don't hit the spikes!
+      When you meet the guy on a ledge, just wait stay on the plataform below
+      and when he's near enough just jump and slice. Go on to the right until
+      you see the white bar.
+    
+
+    
+    Well, now either if you used the surface or the underground path you
+    should end up here. Get down on the bar (Use Down + Jump, and then jump
+    again). Go to the right crouch and move (Move using Down + Right).
+    Now use the bar to cast the fireball magic (Jump + UP), then press and
+    hold button 1 until you become a fireball) to get the two chests with
+    some heart. 
+
+    Now use the bar to go up, and press right when you reach the surface to
+    get the power up for your sword on the chest at the top of the roof. Fall,
+    and enter the building through the door and get out through the other door
+
+    On the outside, don't worry if you fall off. But do as hard as you can
+    to stay on the surface. If you fall you end up on a lake area, you'll
+    just have to go right and kill the fishes, but it's too damn boring.
+
+    Well, just jump and kill the first bird. Be carefull, the one-wood 
+    plataform will fall as soon as you hit it, so be fast. Once you reach the
+    other bigger plataform you'll see a bird and three one-wood plataforms,
+    just kill the bird and jump fast on the others to get to the bigger one.
+    Be carefull, the first wood of the bigger plataform will fall too!
+
+    Now when you're on the right plataform with two chests bellow it, just
+    head left and fall between the bigger plataform and the one-wood. You'll
+    fall on an invisible path, that way you'll be able to get the two chests:
+    one with a heart, and another with a Tornado magic. Just get it and head
+    right until you reach another two chests: one with a heart and another
+    with a spear. Go to the left (don't worry, there's also an invisible 
+    path here) and jump on the plataform with the cannon. Just go on to the
+    right and kill the skull man. Proceed and you'll find the Exit Door.
+    That's it for Level 1!
+
+
+    : Level 2 :
+
+    Here we go again! Well, this first screen is pretty easy, just learn 
+    how the arrows behave and clim on the left ladder to go down on the right.
+    There aren't any secrets here, just break the chests with two hearts and
+    proceed to the next room.
+
+    Now you'll have to kick Kabuto's ass again. It's a little more difficult
+    since you don't have your spears right now, but don't worry, you can 
+    handle him. 
+    Just stay a little far from him and wait for his fireball, once it hits
+    the ground for the first time it will go up again, that's when you go
+    bellow it and strike Kabuto. Keep doing this until he goes small, now 
+    just go at his back, press down and strike until he dies.
+
+    On the next room, approach the block and it'll fall. When it's almost
+    at the top it's your chance to jump. Get the chests and repeat this
+    on the other block.
+
+    Now you'll have to defeat Robster again, It's much harder because you
+    don't have the spears, but do the following: when he throws his potatoes
+    at you, just dodge them and attack once he's jumping (that's his weak
+    point, he's not protected while jumping), slice him around four times, and
+    it's done.
+
+    This room can be pretty hard if you don't have a little jump skill. Just
+    avoid the crystals at all cost. I recomend you to stay at the far left 
+    of the room to learn how the red ledges behave. Once you see the order of
+    the ledges just jump the crystals, go right and when the first ledge 
+    appear jump on it, and continue to the others until you reach the Exit
+    Door. And so is the end of Level 2.
+
+
+    : Level 3 :
+
+    Final Boss Battle - HANZO
+
+    Finally! That's what you've been waiting the all game, huh? Now, let's
+    finish this clown face right now!
+
+    The beggining it's very difficult, you have to get the right timing
+    so you won't get hit those glows that come out of his body. Once he
+    jumps get as close as you can (but don't touch him!) and when the glow
+    is out strike! You gotta repeat it four times before he's dead.
+    
+    When he's gone, the Tornado Ninja will appear. This one is rather easy.
+    Just gotta be fast! Stay near him, crouch and stab. Repeat this until
+    he's dead. Don't give him time to release those twisters on you, keep
+    hitting him.
+    
+    No, he's not dead! Now he comes as a jumping ninja that leaves a shadow
+    when he jumps. Just make sure to give him no time to jump, get near him
+    and strike. You can kill a shadow just by hitting it once. This guy should
+    give you no problem, as I said, you just have to hit him so he can not 
+    jump so often. 
+
+    Once he's dead you'll have beaten the game, congratulations ;). Now enjoy
+    the ending and the credits. Hope it have helped.
+
+
+     _________________                                                 ______ 
+    / SPECIAL THANKS /------------------------------------------------| 0005 |
+    ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                                                  ¯¯¯¯¯¯ 
+
+    We would like specially to thank:
+
+
+    [ YOU!!! ]
+    Dear reader, you're the reason for this FAQ to exist
+
+    [ Us ]
+    If it weren't us you would not be reading it by now
+
+    [ Amanda ]
+    My beloved girlfriend (Imperator's), who motivates and supports me a lot
+    on this productive hobby of mine (writing FAQs)
+
+    [ Masamune3 ]
+    For starting the SMS completion Project
+    http://users.skynet.be/fa354230/games.htm
+
+    [ Marcelo Redfield ]
+    For helping us with some stuff.
+    http://www.gamefaqs.com/features/recognition/44291.html
+
+    [ Google ]
+    http://www.google.com
+
+    [ Abandonware Paradise ]
+    http://www.abandonrom.co.uk
+
+    [ Watler's World ]
+    http://www.watler.computed.net
+
+    [ Answers.com ]
+    http://www.answers.com
+
+    [ Moby Games ]
+    http://www.mobygames.com
+
+
+
+     _________________                                                 ______ 
+    /  CONTACT INFO  /------------------------------------------------| 0006 |
+    ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                                                  ¯¯¯¯¯¯ 
+
+    How to contact CrazyDream.
+
+    1. E-mail:
+    andre.wesker@gmail.com
+
+    2. MSN Messenger:
+    andre_wesker@hotmail.com
+
+    4. Phone:
+    +55 - 48 - 9102-2768
+
+    5. Reading other FAQs written by me:
+    http://users.ign.com/about/weskerSgN
+
+
+    ----
+
+
+    How to contact Imperator.
+
+    1. E-mail:
+    luis.imperator@gmail.com
+
+    2. MSN Messenger:
+    luis.imperator@gmail.com
+
+    3. ICQ:
+    52263780
+
+    4. Phone:
+    +55 - 11 - 9201-7082
+
+    5. Reading other FAQs written by me:
+    http://users.ign.com/about/luis.imperator
+
+
+
+     __________________                                                ______ 
+    / VERSION HISTORY /-----------------------------------------------| 0007 |
+    ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                                                 ¯¯¯¯¯¯ 
+
+
+    Version 1.00  -    Guide completed. Nothing is missing. Last version of
+    (March 18, 2005)   this FAQ unless some innacuracy is found and reported.
+
+
+    Version 0.99  -    Full guide almost complete, lacking some secret rooms
+    (March 17, 2005)   in ROUND 3, must be updated by tomorrow.
+
+
+
+     _________________                                                 ______ 
+    / COPYRIGHT INFO /------------------------------------------------| 0008 |
+    ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                                                  ¯¯¯¯¯¯ 
+
+    This FAQ is ours and you're supposed NOT to steal it. There's no problem 
+    on using it for personal/private use. You may download it, store in your
+    computer, and even print it. BUT it may NOT be placed on any web site or 
+    otherwise distributed publicly without advance written permission. Use of
+    this guide on any other web site or as a part of any public display is 
+    strictly prohibited, and a violation of copyright.
+
+    All trademarks and copyrights contained in this document are owned by
+    their respective trademark and copyright holders. I AM NOT the owner of
+    above trademarks and copyrights, probably Sega and its affiliates are.
+
+    All the material has been written by Luis Fernando "Imperator" and André
+    Rodrigues "CrazyDream", and NOT copied from any other source without
+    giving the due credit.
+
+    This FAQ is only authorized for show at:
+    - www.gamefaqs.com and its affiliates
+    - www.gamespot.com
+    - www.neoseeker.com
+    - games.channel.aol.com
+    - www.gamefly.com
+    - www.ign.com
+    - www.supercheats.com
+
+    If you find it anywhere else, please, let me know.
+
+    For any questions, comments and donations, please email us:
+    luis.imperator@gmail.com
+    andre.wesker@gmail.com
+
+    I expect this FAQ has helped you in a way. Enjoy the game!
+
+
+
+
+
+
+    ==========================================================================
+
+      ___                                    __                
+     |   | _____ ______   ________________ _/  |_  ___________ 
+     |   |/     \\____ \_/ __ \_  __ \__  \\   __\/  _ \_  __ \
+     |   |  Y Y  \  |_> >  ___/|  | \// __ \|  | (  <_> )  | \/
+     |___|__|_|  /   __/ \___  >__|  (____  /__|  \____/|__|   
+               \/|__|        \/           \/                   
+
+                                     &
+
+                                  __      __               __                 
+                                 /  \    /  \ ____   _____|  | __ ___________ 
+                                 \   \/\/   // __ \ /  ___/  |/ // __ \_  __ \
+                                  \        /\  ___/ \___ \|    <\  ___/|  | \/
+                                   \__/\  /  \___  >____  >__|_ \\___  >__|   
+                                        \/       \/     \/     \/    \/       
+
+                                        :: Writing FAQs together since 2005 ::
+                                     http://users.ign.com/about/luis.imperator
+                                          http://users.ign.com/about/weskerSgN
+
+
+    ==========================================================================
+                  Copyright 2004-2005 Luis Fernando and André Rodrigues           
